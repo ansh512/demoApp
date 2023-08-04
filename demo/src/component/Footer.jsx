@@ -9,7 +9,7 @@ export default function footer() {
           <div>
             <Footer.Brand
               alt="Flowbite Logo"
-              href="https://flowbite.com"
+              href="#"
               name="TalentSphere"
               src="https://flowbite.com/docs/images/logo.svg"
             />
